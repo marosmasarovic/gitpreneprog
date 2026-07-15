@@ -6,7 +6,7 @@ Prácu s gitom si tu vyskúšame **cez Clauda — bez terminálu**.
 ## Kto tu bol
 _(krok „po jednom": každý pridá svoj vlastný riadok)_
 
--
+- Marosov komentar 
 
 ## Anketa
 _(krok „konflikt": tento riadok upravte viacerí naraz)_
